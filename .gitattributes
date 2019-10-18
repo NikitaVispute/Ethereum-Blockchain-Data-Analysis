@@ -1,4 +1,4 @@
 *.rmd linguist-language=R
-*.r linguist-detectable=true
+*.R linguist-detectable=true
 * linguist-vendored
 *.html linguist-vendored
